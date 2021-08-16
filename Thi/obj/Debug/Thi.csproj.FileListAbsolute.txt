@@ -1,0 +1,26 @@
+E:\Visual Studio 2015\Projects\QL_Thi_SV\Thi\bin\Debug\Thi.exe.config
+E:\Visual Studio 2015\Projects\QL_Thi_SV\Thi\bin\Debug\Thi.exe
+E:\Visual Studio 2015\Projects\QL_Thi_SV\Thi\bin\Debug\Thi.pdb
+E:\Visual Studio 2015\Projects\QL_Thi_SV\Thi\obj\Debug\Thi.formdangnhap.resources
+E:\Visual Studio 2015\Projects\QL_Thi_SV\Thi\obj\Debug\Thi.Properties.Resources.resources
+E:\Visual Studio 2015\Projects\QL_Thi_SV\Thi\obj\Debug\Thi.csproj.GenerateResource.Cache
+E:\Visual Studio 2015\Projects\QL_Thi_SV\Thi\obj\Debug\Thi.exe
+E:\Visual Studio 2015\Projects\QL_Thi_SV\Thi\obj\Debug\Thi.pdb
+E:\Visual Studio 2015\Projects\QL_Thi_SV\Thi\obj\Debug\Thi.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\Projects\QL_Thi_SV\Thi\obj\Debug\Thi.formmain.resources
+E:\Visual Studio 2015\Projects\QL_Thi_SV\Thi\obj\Debug\Thi.formcauhoithi.resources
+E:\Visual Studio 2015\Projects\QL_Thi_SV\Thi\obj\Debug\Thi.formgiaovien.resources
+E:\Visual Studio 2015\Projects\QL_Thi_SV\Thi\obj\Debug\Thi.formthemgv.resources
+E:\Cơ sỡ dữ liệu\QL_Thi_SV\Thi\bin\Debug\Thi.exe.config
+E:\Cơ sỡ dữ liệu\QL_Thi_SV\Thi\obj\Debug\Thi.exe
+E:\Cơ sỡ dữ liệu\QL_Thi_SV\Thi\obj\Debug\Thi.pdb
+E:\Cơ sỡ dữ liệu\QL_Thi_SV\Thi\bin\Debug\Thi.exe
+E:\Cơ sỡ dữ liệu\QL_Thi_SV\Thi\bin\Debug\Thi.pdb
+E:\Cơ sỡ dữ liệu\QL_Thi_SV\Thi\obj\Debug\Thi.csprojResolveAssemblyReference.cache
+E:\Cơ sỡ dữ liệu\QL_Thi_SV\Thi\obj\Debug\Thi.formcauhoithi.resources
+E:\Cơ sỡ dữ liệu\QL_Thi_SV\Thi\obj\Debug\Thi.formdangnhap.resources
+E:\Cơ sỡ dữ liệu\QL_Thi_SV\Thi\obj\Debug\Thi.formgiaovien.resources
+E:\Cơ sỡ dữ liệu\QL_Thi_SV\Thi\obj\Debug\Thi.formthemgv.resources
+E:\Cơ sỡ dữ liệu\QL_Thi_SV\Thi\obj\Debug\Thi.formmain.resources
+E:\Cơ sỡ dữ liệu\QL_Thi_SV\Thi\obj\Debug\Thi.Properties.Resources.resources
+E:\Cơ sỡ dữ liệu\QL_Thi_SV\Thi\obj\Debug\Thi.csproj.GenerateResource.Cache
